@@ -87,7 +87,7 @@ This RAG approach ensures the AI gives location-specific advice based on real lo
 
 1. Clone the repository
 ```
-git clone https://github.com/tumblr-byte/SafeWander.git
+git clone https://github.com/Pooja-Vachhad/SafeWander.git
 cd SafeWander
 ```
 
@@ -158,6 +158,7 @@ streamlit run app.py
 - Community reporting for scam alerts
 - Multi-language UI support
 - Wearable device integration for SOS
+
 
 
 
